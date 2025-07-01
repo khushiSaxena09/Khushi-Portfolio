@@ -146,12 +146,12 @@ export const projects = [
   },
   {
     id: 1,
-    title: "Face Recognition Attendance System",
+    title: "CHAT AI",
     description:
-      "A real-time face recognition attendance system developed using Python and OpenCV. The system captures student faces through a live camera feed, compares them with a stored dataset, and automatically records attendance, improving accuracy and reducing manual effort.",
-    image: faceRecogLogo,
-    tags: ["Python", "OpenCV", "Machine Learning", "Automation"],
-    github: "https://github.com/khushiSaxena09/Face_Recognition_Attendance_System",
+      "A real-time AI chat application built using React, Express, MongoDB, and Google Gemini. The system provides an interactive interface, processes user queries through Gemini’s language model, and delivers smart, context-aware responses to automate conversations and enhance user engagement.",
+    image: "",
+    tags: ["React", "Express", "MongoDB", "Google Gemini AI", "NLP", "Automation"],
+    github: "",
     webapp: "", // Local project, so skip
   },
   {
